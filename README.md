@@ -4,6 +4,14 @@
 
 > Demo: https://huggingface.co/spaces/prithivMLmods/Vision-to-VibeVoice-en
 
+---
+
+<img width="1918" height="1332" alt="Screenshot 2025-12-05 at 22-26-12 Vision To VibeVoice En - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/bcaee274-68a2-45c6-9da1-8305fb8db579" />
+
+<img width="1859" height="1251" alt="Screenshot 2025-12-05 at 22-27-11 Vision To VibeVoice En - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/2957694e-8d6e-40a5-9929-8a2f244702c8" />
+
+---
+
 ## Features
 
 - **Vision Processing**: Upload images and query for content analysis (e.g., "Caption the image" or "Read this page") using Qwen2.5-VL for accurate text extraction or description.

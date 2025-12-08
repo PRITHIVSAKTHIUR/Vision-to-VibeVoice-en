@@ -2,6 +2,8 @@
 
 > A Gradio-based demo for end-to-end vision-to-speech inference: Extract text or descriptions from images using Qwen2.5-VL-7B-Instruct, then convert to natural speech audio via Microsoft VibeVoice-Realtime-0.5B. Supports customizable queries, voice presets, and fidelity controls for applications like image captioning, document reading, or accessibility tools.
 
+> Demo: https://huggingface.co/spaces/prithivMLmods/Vision-to-VibeVoice-en
+
 ## Features
 
 - **Vision Processing**: Upload images and query for content analysis (e.g., "Caption the image" or "Read this page") using Qwen2.5-VL for accurate text extraction or description.
